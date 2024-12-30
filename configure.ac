@@ -2155,6 +2155,7 @@ AC_CONFIG_FILES([Makefile
 		src/mod/asr_tts/mod_flite/Makefile
 		src/mod/asr_tts/mod_pocketsphinx/Makefile
 		src/mod/asr_tts/mod_tts_commandline/Makefile
+		src/mod/asr_tts/mod_curl_tts/Makefile
 		src/mod/asr_tts/mod_google_tts/Makefile
 		src/mod/asr_tts/mod_openai_tts/Makefile
 		src/mod/asr_tts/mod_piper_tts/Makefile
